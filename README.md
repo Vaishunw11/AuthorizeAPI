@@ -1,4 +1,5 @@
 # AuthorizeAPI
 This is my first Git Repository.
 <br>
-Author - Vaishnavi Walke 
+Author - Vaishnavi (AuthorizeAPI)
+ 
